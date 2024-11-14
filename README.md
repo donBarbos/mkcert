@@ -68,6 +68,12 @@ Then you can install using [Homebrew on Linux](https://docs.brew.sh/Homebrew-on-
 brew install mkcert
 ```
 
+or install using `go install` (requires Go 1.17+)
+
+```
+go install filippo.io/mkcert@latest
+```
+
 or build from source (requires Go 1.13+)
 
 ```
